@@ -1,5 +1,17 @@
-## Hi there 👋
+## 👋 Hi, I'm Tahzeeb Ul Hassan
 
+🎓 Electrical Engineer | 📍 Pakistan  
+💡 Passionate about Computer Vision, Image Processing & Robotics  
+🛠️ Working with Python, OpenCV, TensorFlow, and PyTorch
+
+## 🧠 Interests
+- Computer Vision Projects (Object Detection, Classification)
+- Neural Networks & Deep Learning
+- Swarm Robotics & Automation
+- Communication & Control Systems
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/tahzeeb-ul-hassan-637845297/)
 <!--
 **Tahzeeb-Ul-Hassan/Tahzeeb-Ul-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
