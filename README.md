@@ -32,7 +32,7 @@ This repository helps me build and sharpen practical Computer Vision skills by w
 
 Feel free to connect or collaborate:
 
-- 📧 Email: [your_email@example.com]
-- 💼 LinkedIn: [Your LinkedIn Profile]
+- 📧 Email: ttahzeebulhassan60@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tahzeeb-ul-hassan-637845297/
 
 ⭐ If you find anything useful, give this repo a star!
