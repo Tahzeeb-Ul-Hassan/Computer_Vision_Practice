@@ -18,7 +18,7 @@ This repository contains my personal practice and project work in the field of C
 - Jupyter Notebooks
 - TensorFlow / Keras
 - OpenCV
-- PyTorch (in future plans)
+
 
 
 ## 🚀 Purpose
